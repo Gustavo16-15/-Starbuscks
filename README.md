@@ -38,4 +38,4 @@ Troca de Imagem Dinâmica: Ao clicar nas miniaturas (thumbnails), a imagem princ
 
 Troca de Cor de Fundo: O fundo (círculo decorativo) muda de cor conforme o sabor selecionado, criando uma experiência visual fluida.
 
-Design Responsivo: Adaptado para diferentes resoluções de tela.
+Design Responsivo: Adaptado para diferentes resoluções de tela. 
