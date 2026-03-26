@@ -10,29 +10,6 @@ CSS3: Estilização, posicionamento (Flexbox) e animações.
 
 JavaScript: Lógica para troca dinâmica de imagens e cores de fundo.
 
-
-O Gemini disse
-Como o seu projeto é uma landing page inspirada no Starbucks, o README precisa ser visual e organizado para valorizar o seu trabalho.
-
-Aqui está um modelo prontinho para você copiar e colar no seu arquivo README.md:
-
-☕ Starbucks Landing Page
-Uma landing page interativa e responsiva inspirada na interface do Starbucks, focada em praticar manipulação de DOM com JavaScript, CSS moderno e estruturação HTML.
-
-🚀 Demonstração
-Se você ativou o GitHub Pages (e resolveu o erro 404), coloque o link aqui:
-
-Clique aqui para visualizar o projeto online
-
-🛠️ Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-HTML5: Estruturação dos elementos da página.
-
-CSS3: Estilização, posicionamento (Flexbox) e animações.
-
-JavaScript: Lógica para troca dinâmica de imagens e cores de fundo.
-
 ⚙️ Funcionalidades
 Troca de Imagem Dinâmica: Ao clicar nas miniaturas (thumbnails), a imagem principal do copo é alterada.
 
